@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+        width:80%;
+        margin-left:auto;
+        margin-right:auto;
+
+}
+
+.logo_img{
+	display: inline-block;
+
+}
+
+.logo_text{
+
+	float:right;
+	padding: 30px;
+	text-align: right;
+	margin-right: 50px;
+
+	
+}
+
+
+
+.photo{
+	margin-right: 60px;
+	border-top: solid grey 3px;
+
+
+}
+
+.appify{
+	display: inline-block;
+
+}
+
+.sun{
+	display: inline-block;
+}
+
+.bokeh{
+	display: inline-block;
+}
+
+.feature{
+	
+}
+
+.img1{
+	 border-width:5px;  
+    border-style:double;
+    border-color: #e0e0d1;
+    margin-right: 30px;
+}
+.img2{
+	 border-width:5px;  
+    border-style:double;
+    border-color: #e0e0d1;
+    margin-right: 30px;
+}
+.img3{
+	 border-width:5px;  
+    border-style:double;
+    border-color: #e0e0d1;
+}
+.image{
+	
+
+}
+
+p{
+	text-align:center;
+	font-size: 1.5rem;
+	color: grey;
+
+}
+
+a {
+	text-decoration-line: none;
+	color: #ccccb3;
+	font-size: 1rem;
+	
+
+}
+
+h1  {
+	    font-family: Oswald,sans-serif;
+	        color: #2d3c49;
+}
+
+h2 , h3{
+	font-family: Oswald,sans-serif;
+	color: #cce6ff;
+
+}
+
+
+a:hover{
+	color: blue;
+}
